@@ -1,0 +1,9 @@
+body {
+    color: white;
+}
+.modal-title {
+    color: black !important;
+}
+.btn-outline-dark {
+    color: white !important;
+}
